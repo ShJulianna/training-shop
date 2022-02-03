@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShJulianna/training-shop/static/css/main.073c9b0a.css",
+    "main.js": "/ShJulianna/training-shop/static/js/main.9772f14a.js",
+    "static/js/787.47ca6e30.chunk.js": "/ShJulianna/training-shop/static/js/787.47ca6e30.chunk.js",
+    "static/media/logo.svg": "/ShJulianna/training-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ShJulianna/training-shop/index.html",
+    "main.073c9b0a.css.map": "/ShJulianna/training-shop/static/css/main.073c9b0a.css.map",
+    "main.9772f14a.js.map": "/ShJulianna/training-shop/static/js/main.9772f14a.js.map",
+    "787.47ca6e30.chunk.js.map": "/ShJulianna/training-shop/static/js/787.47ca6e30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9772f14a.js"
+  ]
+}
