@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
+
 export const InfoStringStyled = {
     Container: styled.div`
         display: flex;
