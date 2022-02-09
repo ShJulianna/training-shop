@@ -1,16 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import {Link, HashRouter as Router, Route, Routes} from 'react-router-dom';
-import { InfoString } from './components/header/InfoString/InfoString';
-import { NavBar } from './components/header/NavBar/NavBar';
+import { Menu } from './components/header/Menu/Menu';
+import { MainPage } from './pages/MainPage/ManePage';
 import './index.css';
 
 
 ReactDOM.render(
   <>
-  <InfoString/>
-  <NavBar/>
+    <Menu/>
+    <MainPage/>
   </>
+  
   // <Router>
   //     <Routes>
   //       {/* <Route element={<MainPage/>} path='/'/>

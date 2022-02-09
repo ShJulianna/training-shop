@@ -8,7 +8,7 @@ export const InfoStringStyled = {
         justify-content: space-between;
         align-items: center;
         border-bottom: 2px solid #F8F8F8;
-        padding: 0 85px;
+        padding: 0 15vh 0 15vh;
         background-color: rgb(0,0,0);
         color: white;
         font-family: Spartan;
@@ -18,6 +18,9 @@ export const InfoStringStyled = {
         line-height: 12px;
         min-height: 24px;
         
+        @media screen and (max-width: 768px) {
+            padding: 0 10px;
+            } 
         & div {
             display: flex;
             flex-direction: row;
@@ -27,7 +30,7 @@ export const InfoStringStyled = {
                 margin-right: 10px;
             }
             & img {
-                margin-left: 10px;
+                margin: 0 10px;
                 weight: 10.5px;
             }
         }
