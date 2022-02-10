@@ -1,17 +1,35 @@
 {
   "files": {
     "main.css": "/training-shop/static/css/main.827893e8.css",
-    "main.js": "/training-shop/static/js/main.7d768399.js",
+    "main.js": "/training-shop/static/js/main.27b65b85.js",
     "static/media/Rectangle.png": "/training-shop/static/media/Rectangle.c59a67a48a101ef83f4a.png",
+    "static/media/woman.png": "/training-shop/static/media/woman.4152b783e591f01bafb6.png",
     "static/media/Rectangle3.png": "/training-shop/static/media/Rectangle3.4692b52fccd7d4dde009.png",
+    "static/media/man.png": "/training-shop/static/media/man.5a7402230a574e8b3266.png",
+    "static/media/5.png": "/training-shop/static/media/5.951021759d2ae1e1c63c.png",
+    "static/media/2.png": "/training-shop/static/media/2.0c8a21a20e20c9778fc3.png",
+    "static/media/12.png": "/training-shop/static/media/12.1b330c8f62cc1c907793.png",
+    "static/media/11.png": "/training-shop/static/media/11.d9b2d95302ab7e21dcdb.png",
+    "static/media/1.png": "/training-shop/static/media/1.e08acd27d65ad3527cf6.png",
+    "static/media/16.png": "/training-shop/static/media/16.2314a08429e8d3ab78d5.png",
+    "static/media/3.png": "/training-shop/static/media/3.fc03c9c709b9b072182b.png",
+    "static/media/14.png": "/training-shop/static/media/14.542057ae73ad5f7326ef.png",
+    "static/media/15.png": "/training-shop/static/media/15.0a2e6c6d977b4735443f.png",
+    "static/media/9.png": "/training-shop/static/media/9.1ccb5b87178b0aa49643.png",
+    "static/media/7.png": "/training-shop/static/media/7.bf9138fffbd92703dabe.png",
+    "static/media/10.png": "/training-shop/static/media/10.797f82578c40895059fe.png",
+    "static/media/6.png": "/training-shop/static/media/6.970edd362006a6474b41.png",
+    "static/media/8.png": "/training-shop/static/media/8.eeb6e31565255ec9cf84.png",
     "static/media/Rectangle1.png": "/training-shop/static/media/Rectangle1.cbee119685e91c164d5b.png",
+    "static/media/13.png": "/training-shop/static/media/13.fd2df24e871f95f31108.png",
+    "static/media/4.png": "/training-shop/static/media/4.87f9e109eb0cc33ffeef.png",
     "static/media/Rectangle2.png": "/training-shop/static/media/Rectangle2.8155c56f7dd3f70c2963.png",
     "index.html": "/training-shop/index.html",
     "main.827893e8.css.map": "/training-shop/static/css/main.827893e8.css.map",
-    "main.7d768399.js.map": "/training-shop/static/js/main.7d768399.js.map"
+    "main.27b65b85.js.map": "/training-shop/static/js/main.27b65b85.js.map"
   },
   "entrypoints": [
     "static/css/main.827893e8.css",
-    "static/js/main.7d768399.js"
+    "static/js/main.27b65b85.js"
   ]
 }
