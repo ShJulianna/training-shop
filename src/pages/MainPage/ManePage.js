@@ -6,6 +6,9 @@ import { MenProdacts } from "../../components/prodacts/Prodacts/MenProdacts";
 import { AdditionalComponents } from "../../components/mainpage/additionalComponent/AdditionalComponent";
 import { SubscribingComponent } from "../../components/mainpage/subscribingComponent/SubscribingComponent";
 import { ThematicBlock } from "../../components/mainpage/thematicBlock/ThematicBlock";
+import { RegistrationString } from "../../components/footer/register/RegisterationString.js";
+import { FooterLinks } from "../../components/footer/footerLinks/FooterLinks";
+import { PayInformation } from "../../components/footer/PayInformation/PayInfomation";
 
 
 export const MainPage = () => {
@@ -19,6 +22,9 @@ export const MainPage = () => {
             <AdditionalComponents/>
             <SubscribingComponent/>
             <ThematicBlock/>
+            <RegistrationString/>
+            <FooterLinks/>
+            <PayInformation/>
         </>
     )
 }
