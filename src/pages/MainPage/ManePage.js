@@ -5,6 +5,8 @@ import { WomenProdacts } from "../../components/prodacts/Prodacts/WomenProdacts"
 import { MenProdacts } from "../../components/prodacts/Prodacts/MenProdacts";
 import { AdditionalComponents } from "../../components/mainpage/additionalComponent/AdditionalComponent";
 import { SubscribingComponent } from "../../components/mainpage/subscribingComponent/SubscribingComponent";
+import { ThematicBlock } from "../../components/mainpage/thematicBlock/ThematicBlock";
+
 
 export const MainPage = () => {
 
@@ -16,6 +18,7 @@ export const MainPage = () => {
             <MenProdacts/>
             <AdditionalComponents/>
             <SubscribingComponent/>
+            <ThematicBlock/>
         </>
     )
 }
